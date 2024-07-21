@@ -2,6 +2,9 @@
 
 Synthetic Vessel Generator for the generation of synthetic cerebral vessel labels. 
 
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/0f3348ef-980b-4433-9e16-4df3e8972940">
+
+
 (A) The vessel generator is designed to be adaptable to produce anatomically plausible vessels and implausible vessels, that do not obey, to a controllable degree, the known literature rules.
 
 (B) The generator then produces a score image, of the same label image dimension to represent the location of the implausibility and the scale of inaccuracy. 
