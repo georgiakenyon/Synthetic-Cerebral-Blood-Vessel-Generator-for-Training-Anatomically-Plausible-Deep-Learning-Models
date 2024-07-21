@@ -35,6 +35,6 @@ Speed and resolution of image generation optimization using reduced iteration â€
 
 - The simulator renders a 3D skeleton image of the vascular network, where each voxel in the vessel image stores the vessel radius at that point,
 - Voxel radii are used to linearly interpolate partial volume contributions (pre-calculated numerically for a range of cylinders of different sizes and locations within the voxel) to accurately reflect the volumetric contributions of the vessels.
-<img width="2838" alt="image" src="https://github.com/user-attachments/assets/ff1f094b-3809-42bb-946b-81c4bdfe335c">
+
 
 
