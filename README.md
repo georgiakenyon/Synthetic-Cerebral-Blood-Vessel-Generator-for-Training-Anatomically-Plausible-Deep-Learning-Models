@@ -2,7 +2,7 @@
 
 Synthetic Vessel Generator for the generation of synthetic cerebral vessel labels. 
 
-<img width="338" alt="image" src="https://github.com/user-attachments/assets/03f61fd9-aa86-44b7-b457-15a6f3171a96">
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/c2bacc6d-ea3f-4f2e-839d-7a5137f29946">
 
 
 
